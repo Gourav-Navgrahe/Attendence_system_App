@@ -37,7 +37,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-
+git clone https://gourav-navgrahe.github.io/Attendence_system_App/
 ```
 Open 2 terminals in separate windows/tabs.
 
